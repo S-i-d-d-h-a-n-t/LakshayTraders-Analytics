@@ -1,6 +1,6 @@
-# NorthWindTraders-Analytics
-## Northwind Traders Sales Analysis
-This repository contains a comprehensive sales analysis of the Northwind Traders database. The project aims to derive key business insights from the dataset, including customer behavior, product performance, and employee sales effectiveness.
+# LakshayTraders-Analytics
+## Lakshay Traders Sales Analysis
+This repository contains a comprehensive sales analysis of the Lakshay Traders database. The project aims to derive key business insights from the dataset, including customer behavior, product performance, and employee sales effectiveness.
 
 ## Table of Contents
 ### Project Overview
@@ -18,10 +18,10 @@ This repository contains a comprehensive sales analysis of the Northwind Traders
 ### How to Run
 
 ## Project Overview
-Northwind Traders is a fictional company that imports and exports specialty foods from around the world. This project uses the Northwind database to perform a detailed analysis of sales data. The insights gained can help the business make data-driven decisions to optimize operations, improve marketing strategies, and increase profitability.
+Lakshay Traders is a fictional company that imports and exports specialty foods from around the world. This project uses the Lakshay database to perform a detailed analysis of sales data. The insights gained can help the business make data-driven decisions to optimize operations, improve marketing strategies, and increase profitability.
 
 ## Dataset
-The analysis is based on the standard Northwind database schema, which includes the following tables:
+The analysis is based on the standard Lakshay database schema, which includes the following tables:
 
 - customers: Information about the company's customers.
 
@@ -76,14 +76,14 @@ The analysis was performed using SQL queries to extract and aggregate data from 
 ## How to Run
 - Clone the repository:
 
-git clone https://github.com/S-i-d-d-h-a-n-t/northwind-sales-analysis.git
+git clone https://github.com/S-i-d-d-h-a-n-t/Lakshay-sales-analysis.git
 
 - Navigate to the project directory:
 
-cd northwind-sales-analysis
+cd Lakshay-sales-analysis
 
 - Set up your database:
-Instructions on how to connect to the Northwind database and load the data. This might involve running a .sql script or connecting to a live instance.
+Instructions on how to connect to the Lakshay database and load the data. This might involve running a .sql script or connecting to a live instance.
 
 Run the analysis scripts:
 Instructions on how to execute your analysis scripts, e.g., a Python script or a series of SQL queries.
